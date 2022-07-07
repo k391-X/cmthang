@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CanMinhThang
 - 👀 I’m interested in games, tools, cracker, ...
 - 🌱 I’m currently learning Laravel, Vuejs, JavaScript.
-- 💞️ I’m looking to collaborate with everyone (admire interesting people).
+- 💞️ I've always wanted to collaborate with everyone (admire interesting people).
 - 📫 How to reach me by number phone 0988 944 200.  
 
 <!---
