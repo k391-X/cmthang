@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CanMinhThang
+- 👋 Hi, I’m @Thang
 - 👀 I’m interested in games, tools, cracker, ...
 - 🌱 I’m currently learning Laravel, Vuejs, JavaScript.
 - 💞️ I've always wanted to collaborate with everyone (admire interesting people).
